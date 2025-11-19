@@ -218,6 +218,8 @@ int main() {
 			animal->Init();
 			cout << endl;
 			animal->Print();
+			animal->Eat();
+			animal->Move();
 			cout << endl;
 			break;
 
@@ -229,6 +231,8 @@ int main() {
 			animal->Init();
 			cout << endl;
 			animal->Print();
+			animal->Eat();
+			animal->Move();
 			cout << endl;
 			break;
 
@@ -241,6 +245,8 @@ int main() {
 			animal->Init();
 			cout << endl;
 			animal->Print();
+			animal->Eat();
+			animal->Move();
 			cout << endl;
 			break;
 
@@ -252,6 +258,8 @@ int main() {
 			animal->Init();
 			cout << endl;
 			animal->Print();
+			animal->Eat();
+			animal->Move();
 			cout << endl;
 			break;
 
